@@ -1,0 +1,106 @@
+body{
+
+    background-color: bisque;
+}
+.navbar-default {
+    background-color: bisque;
+  
+}
+
+.heading1{
+  color: yellowgreen;
+  font-style: italic;
+  
+}
+
+.myfooter{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
+.img-container
+{
+/* float:none; */
+  /* width: 20%;  */
+  height: 40%;    /* 2 boxes */
+ /* space between the images */
+}
+
+.img1
+{
+  height : 500px;
+  width : 1085px;
+
+}
+
+
+/* .nav-item 
+{
+float: right;
+
+} */
+
+.heading{
+margin-top:-300px;
+float: right;
+color: azure;
+width: 100%;
+padding-left: 400px;
+
+}
+
+/* .navbar
+{
+float: right;
+
+} */
+
+.form-group row
+{
+
+  border: red;
+
+}
+
+.box
+{
+margin-left: 1x;
+background-color: white;
+width:600px;
+padding: 5px;
+margin-top:-5px;
+height: auto;
+box-shadow: 0px 0px 15px;
+
+}
+
+.box p{
+
+  font-size: 15px;
+  
+}
+
+.redbox{
+background-color: red;
+width: 470px;
+padding: 5px;
+margin-top: -183px;
+margin-left: 615px;
+color: white;
+box-shadow: 0px 0px 15px;
+}
+.navbar
+{
+  background-color: bisque;
+}
+
+.navbar a{
+
+  color: black;
+float: right;
+}
+.navbar1
+{
+  margin-left: 500px;
+}
